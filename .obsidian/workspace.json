@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "648e460f4ffb7448",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f9b73fd96f3e305",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f23c5bb8e6a0fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0bea3b559bb0383",
+    "type": "split",
+    "children": [
+      {
+        "id": "e52542b71cf630d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98b3f8a83d1b295f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f771a12e829ae6b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "principio di equivalenza",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "579ae5d037e2595f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f2fcc04cc4630a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c11338efe4e8839d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a587ef63d4790ddf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b8e7b10ba580067",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f69342768079b1d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75daec1c4a5bcbaf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "6f23c5bb8e6a0fd4",
+  "lastOpenFiles": [
+    "Introduzione al corso.md",
+    "index.md",
+    "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
+    "Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
+    "Teoria dei circuiti/Generatori pilotati.md",
+    "Teoria dei circuiti/Metodo delle prove semplici.md",
+    "Teoria dei circuiti/N-poli.md",
+    "Teoria dei circuiti/Potenza ed energia elettrica.md",
+    "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
+    "Teoria dei circuiti/Risoluzione di circuiti.md",
+    "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+    "Teoria dei circuiti/Teoria dei circuiti.md",
+    "Elettrostatica/Fondamenti di elettrostatica.md",
+    "Elettrostatica/Materiale conduttore.md",
+    "Elettrostatica/Flusso di un campo vettoriale.md",
+    "Elettrostatica/Potenziale e tensione elettrica.md",
+    "Elettrostatica/Principio di conservazione della carica.md",
+    "Componenti dinamici/Componenti dinamici.md",
+    "Bipoli compositi/Amplificatore operazionale ideale.md",
+    "Bipoli compositi/Collegamento di doppi bipoli.md",
+    "Bipoli compositi/Doppi bipoli lineari affini.md",
+    "Bipoli compositi/Doppi bipoli.md",
+    "Bipoli compositi/Trasferitore ideale di potenza.md",
+    "data/Pasted image 20240902165354.png",
+    "data/Pasted image 20240902165330.png",
+    "data/Pasted image 20240902165224.png",
+    "data/Pasted image 20240902165202.png",
+    "Componenti dinamici",
+    "data/Pasted image 20240902164742.png",
+    "data/Pasted image 20240902164403.png",
+    "data/Pasted image 20240902164322.png",
+    "data/Pasted image 20240902164157.png",
+    "data/Pasted image 20240902163846.png",
+    "data/Pasted image 20240902163313.png",
+    "Teoria dei circuiti/Bipoli/Bipoli.md",
+    "Bipoli compositi",
+    "Campagna.md",
+    "Teoria dei circuiti/Bipoli",
+    "Teoria dei circuiti",
+    "data",
+    "Elettrostatica",
+    "old",
+    "old/data",
+    "old/temp",
+    "old/elettromagnetismo"
+  ]
+}
