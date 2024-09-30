@@ -9,10 +9,7 @@
     "inlineHTML": false,
     "exportPath": "/output",
     "filesToExport": [
-      "Bipoli compositi",
-      "Componenti dinamici",
-      "Elettrostatica",
-      "Teoria dei circuiti",
+      "Equazioni differenziali",
       "index.md",
       "Introduzione al corso.md"
     ],

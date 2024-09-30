@@ -1,3 +1,10 @@
 Il corso di Analisi Matematica 2 affronta vari concetti avanzati, tra cui le curve parametriche, sia piane che spaziali, studiandone le proprietà come la lunghezza e gli integrali curvilinei. Viene approfondito il calcolo differenziale per funzioni di più variabili, con nozioni su limiti, continuità, derivate parziali, gradiente e ottimizzazione. Si esplora il calcolo integrale con integrali doppi e tripli, insieme a trasformazioni di coordinate. La parte sulle serie di potenze include la teoria di Fourier, con applicazioni a funzioni periodiche. Inoltre, il corso tratta le equazioni differenziali ordinarie, lineari e non lineari, e i sistemi differenziali. Infine, si introducono elementi di teoria qualitativa delle equazioni differenziali, con un focus sui sistemi autonomi e lo studio qualitativo tramite diagrammi di fase.
 
 1. [[Introduzione al corso]]
+2. [[Equazioni differenziali ordinarie]]
+	1. [[EDO del primo ordine]]
+		1. [[Modelli di dinamica delle popolazioni]]
+	2. [[EDO del secondo ordine lineari]]
+		1. [[EDO del secondo ordine lineari omogenee a coefficienti costanti]]
+		2. [[EDO del secondo ordine lineari non omogenee]]
+

@@ -24,12 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md",
+      "timestamp": 1727425565098
+    },
+    {
       "filepath": "index.md",
-      "timestamp": 1726066885515
+      "timestamp": 1727425548009
     },
     {
       "filepath": "Introduzione al corso.md",
-      "timestamp": 1726066638464
+      "timestamp": 1727425532931
+    },
+    {
+      "filepath": "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari omogenee a coefficienti costanti.md",
+      "timestamp": 1727425226927
+    },
+    {
+      "filepath": "Equazioni differenziali/Modelli di dinamica delle popolazioni.md",
+      "timestamp": 1727425132980
     }
   ],
   "starredFileStore": [],

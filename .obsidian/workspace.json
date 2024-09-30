@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "4f9b73fd96f3e305",
+        "id": "8d8e914e67460ee5",
         "type": "tabs",
         "children": [
           {
-            "id": "6f23c5bb8e6a0fd4",
+            "id": "e13c2dca475a78b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Equazioni differenziali/EDO del primo ordine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f7ca0132b6ceea8",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae04f8a2033ecdd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md"
               }
             }
           }
@@ -149,10 +170,23 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "6f23c5bb8e6a0fd4",
+  "active": "ae04f8a2033ecdd9",
   "lastOpenFiles": [
-    "Introduzione al corso.md",
     "index.md",
+    "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md",
+    "Introduzione al corso.md",
+    "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari omogenee a coefficienti costanti.md",
+    "Equazioni differenziali/Modelli di dinamica delle popolazioni.md",
+    "Equazioni differenziali/Equazioni differenziali ordinarie.md",
+    "Linguaggi ad alto livello.md",
+    "Equazioni differenziali/EDO del primo ordine.md",
+    "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari.md",
+    "temp/2024-09-16.md",
+    "temp/2024-09-17.md",
+    "Equazioni differenziali/EDO del secondo ordine",
+    "Equazioni differenziali/EDO del primo ordine",
+    "Equazioni differenziali",
+    "temp",
     "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
     "Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
     "Teoria dei circuiti/Generatori pilotati.md",
@@ -168,12 +202,6 @@
     "Elettrostatica/Flusso di un campo vettoriale.md",
     "Elettrostatica/Potenziale e tensione elettrica.md",
     "Elettrostatica/Principio di conservazione della carica.md",
-    "Componenti dinamici/Componenti dinamici.md",
-    "Bipoli compositi/Amplificatore operazionale ideale.md",
-    "Bipoli compositi/Collegamento di doppi bipoli.md",
-    "Bipoli compositi/Doppi bipoli lineari affini.md",
-    "Bipoli compositi/Doppi bipoli.md",
-    "Bipoli compositi/Trasferitore ideale di potenza.md",
     "data/Pasted image 20240902165354.png",
     "data/Pasted image 20240902165330.png",
     "data/Pasted image 20240902165224.png",
@@ -185,16 +213,10 @@
     "data/Pasted image 20240902164157.png",
     "data/Pasted image 20240902163846.png",
     "data/Pasted image 20240902163313.png",
-    "Teoria dei circuiti/Bipoli/Bipoli.md",
     "Bipoli compositi",
-    "Campagna.md",
     "Teoria dei circuiti/Bipoli",
     "Teoria dei circuiti",
     "data",
-    "Elettrostatica",
-    "old",
-    "old/data",
-    "old/temp",
-    "old/elettromagnetismo"
+    "Elettrostatica"
   ]
 }
