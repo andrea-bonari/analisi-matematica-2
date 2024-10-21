@@ -7,4 +7,13 @@ Il corso di Analisi Matematica 2 affronta vari concetti avanzati, tra cui le cur
 	2. [[EDO del secondo ordine lineari]]
 		1. [[EDO del secondo ordine lineari omogenee a coefficienti costanti]]
 		2. [[EDO del secondo ordine lineari non omogenee]]
+3. [[Sistemi differenziali lineari]]
+	1. [[Sistemi differenziali lineari omogenei]]
+4. [[Spazio n-dimensionale]]
+	1. [[Sottoinsiemi di uno spazio n-dimensionale]]
+	2. [[Funzioni a più variabili]]
+	3. [[Curve in uno spazio n-dimensionale]]
 
+
+
+parlami dei linguaggi di programmazione

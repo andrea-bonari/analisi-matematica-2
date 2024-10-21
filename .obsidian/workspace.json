@@ -4,43 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8d8e914e67460ee5",
+        "id": "a4ff520e7c61873f",
         "type": "tabs",
         "children": [
           {
-            "id": "e13c2dca475a78b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equazioni differenziali/EDO del primo ordine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f7ca0132b6ceea8",
+            "id": "a6eeb892f3156155",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "ae04f8a2033ecdd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md",
-                "mode": "source",
-                "source": false
-              }
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -75,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -83,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -106,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md",
+                "file": "Spazio n-dimensionale/Curve in uno spazio n-dimensionale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Curve in uno spazio n-dimensionale"
             }
           },
           {
@@ -123,10 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md",
+                "file": "Spazio n-dimensionale/Curve in uno spazio n-dimensionale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Curve in uno spazio n-dimensionale"
             }
           },
           {
@@ -137,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -146,8 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md"
-              }
+                "file": "Spazio n-dimensionale/Curve in uno spazio n-dimensionale.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Curve in uno spazio n-dimensionale"
             }
           }
         ]
@@ -170,19 +161,30 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "ae04f8a2033ecdd9",
+  "active": "a6eeb892f3156155",
   "lastOpenFiles": [
+    "Spazio n-dimensionale/Spazio n-dimensionale.md",
     "index.md",
-    "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md",
-    "Introduzione al corso.md",
-    "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari omogenee a coefficienti costanti.md",
-    "Equazioni differenziali/Modelli di dinamica delle popolazioni.md",
-    "Equazioni differenziali/Equazioni differenziali ordinarie.md",
-    "Linguaggi ad alto livello.md",
-    "Equazioni differenziali/EDO del primo ordine.md",
-    "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari.md",
+    "Spazio n-dimensionale/Curve in uno spazio n-dimensionale.md",
+    "Spazio n-dimensionale/Funzioni a più variabili.md",
     "temp/2024-09-16.md",
+    "temp/2024-10-08.md",
+    "temp/2024-10-15.md",
     "temp/2024-09-17.md",
+    "Spazio n-dimensionale/Sottoinsiemi di uno spazio n-dimensionale.md",
+    "Untitled.md",
+    "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari omogenee a coefficienti costanti.md",
+    "Spazio n-dimensionale",
+    "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md",
+    "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari.md",
+    "Equazioni differenziali/EDO del primo ordine.md",
+    "Equazioni differenziali/Equazioni differenziali ordinarie.md",
+    "Sistemi differenziali lineari/Sistemi differenziali lineari omogenei.md",
+    "Sistemi differenziali lineari/Sistemi differenziali lineari.md",
+    "Sistemi differenziali lineari",
+    "Introduzione al corso.md",
+    "Equazioni differenziali/Modelli di dinamica delle popolazioni.md",
+    "Linguaggi ad alto livello.md",
     "Equazioni differenziali/EDO del secondo ordine",
     "Equazioni differenziali/EDO del primo ordine",
     "Equazioni differenziali",
@@ -193,15 +195,6 @@
     "Teoria dei circuiti/Metodo delle prove semplici.md",
     "Teoria dei circuiti/N-poli.md",
     "Teoria dei circuiti/Potenza ed energia elettrica.md",
-    "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
-    "Teoria dei circuiti/Risoluzione di circuiti.md",
-    "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
-    "Teoria dei circuiti/Teoria dei circuiti.md",
-    "Elettrostatica/Fondamenti di elettrostatica.md",
-    "Elettrostatica/Materiale conduttore.md",
-    "Elettrostatica/Flusso di un campo vettoriale.md",
-    "Elettrostatica/Potenziale e tensione elettrica.md",
-    "Elettrostatica/Principio di conservazione della carica.md",
     "data/Pasted image 20240902165354.png",
     "data/Pasted image 20240902165330.png",
     "data/Pasted image 20240902165224.png",
@@ -215,8 +208,6 @@
     "data/Pasted image 20240902163313.png",
     "Bipoli compositi",
     "Teoria dei circuiti/Bipoli",
-    "Teoria dei circuiti",
-    "data",
-    "Elettrostatica"
+    "Teoria dei circuiti"
   ]
 }

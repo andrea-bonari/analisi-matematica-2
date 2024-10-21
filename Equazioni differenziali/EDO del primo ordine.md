@@ -76,20 +76,18 @@ y(t_{0})=y_{0}
 >[!tip]
 >L'equazione di Bernoulli è in forma normale con $$f(t,y):=g(t)y+h(t)y^{\alpha}$$
 
-Per la risoluzione effettuiamo 3 passi:
-1. Ricerchiamo delle soluzioni costanti
+Processo risolutivo di un equazione di Bernoulli
+1. Ricerca delle soluzioni costanti:
 	Se $\alpha>0,\quad y\equiv0$ è soluzione costante
 	Se $h$ e $g$ sono funzioni costanti, allora possiamo formalmente trovare le seguenti soluzioni, e poi controllare se sono ben definite:
 	- $\alpha\in(0,1):\qquad y^{\alpha}(gy^{1-\alpha}+h)=0\Longrightarrow y\equiv0, y= \left(- \frac{h}{g}\right)^{\frac{1}{1-\alpha}}$
 	- $\alpha>1:\qquad y(g+h^{\alpha-1})=0\Longrightarrow y\equiv 0, y= \left(-\frac{g}{h}\right)^{\frac{1}{\alpha -1}}$
 	- $\alpha<0:\qquad gy+ \frac{h}{y^{-1}}=0\Longrightarrow y= \left(- \frac{h}{g}\right)^{\frac{1}{1-\alpha}}$
 	Se le funzioni costanti non sono definite non sono da considerare tra le soluzioni
-2. Ricerca delle soluzioni non costanti
-	2.1: divido la EDO per $y^{\alpha}$: $$\frac{y'(t)}{y^{\alpha}(t)}= g(t)\frac{y'(t)}{y^{\alpha}(t)}+h(t)$$ $$\left(\frac{1}{1-\alpha}\cdot \frac{1}{y^{\alpha-1}}\right)=g \frac{1}{y^{\alpha-1}}+h$$
-	2.2: poniamo $z= y^{1-\alpha}(t)$ così da ottenere: $$\frac{1}{1-\alpha} z'(t)=g(t)z(t)+h(t)$$
-	$$z'(t)=(1-\alpha)g(t)z(t)+(1-\alpha)h(t)$$
+2. Ricerca delle soluzioni non costanti:
+	2.1: divido la EDO per $y^{\alpha}$ e integro entrambi gli estremi: $$\frac{y'(t)}{y^{\alpha}(t)}= g(t)\frac{y'(t)}{y^{\alpha}(t)}+h(t)\Longrightarrow\left(\frac{1}{1-\alpha}\cdot \frac{1}{y^{\alpha-1}}\right)=g(t) \frac{1}{y^{\alpha-1}}+h(t)$$
+	2.2: poniamo $z= y^{1-\alpha}(t)$ così da ottenere: $$\frac{1}{1-\alpha} z'(t)=g(t)z(t)+h(t)\Longrightarrow z'(t)=(1-\alpha)g(t)z(t)+(1-\alpha)h(t)$$
 	Che è una EDO lineare con $a(t)= (1-\alpha)g(t)$ e $b(t)=(1-\alpha)h(t)$
 	2.3: risolviamo la EDO lineare trovata in $z$ utilizzando la formula del teorema
-	2.4 ricavo $y(t)=z(t)^{\frac{1}{1-\alpha}}$
-3. Scrivere l'integrale generale mettendo insieme le soluzioni costanti e non costanti
-
+	2.4: ricavo $y(t)=z(t)^{\frac{1}{1-\alpha}}$
+3. Scrivo l'integrale generale inserendo insieme le soluzioni trovate ai passi 1 e 2.
