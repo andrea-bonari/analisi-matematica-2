@@ -32,12 +32,16 @@ $\overrightarrow{r}$ è continua in $t$ se e solo se $r_{1},\cdots,r_{n}$ sono c
 >Sia $\overrightarrow{r}:I\subseteq\mathbb{R}\to\mathbb{R}^{n}$ una curva definita su un intervallo aperto $I$. Diciamo che $\overrightarrow{r}$ è regolare se:
 >- $\overrightarrow{r}\in c^{1}(I;\mathbb{R}^{n})$
 >- $\overrightarrow{r}\space'(t)\neq0\quad\forall t\in I$
+>
+>Oppure, Sia $I=[a,b]$ per $a<b$ e $\overrightarrow{r}:[a,b]\to\mathbb{R}^{n}$ sia una curva. Diciamo che $\overrightarrow{r}$ è regolare se $\overrightarrow{r}\space\bigg|_{(a,b)}$ è regolare.
 
 >[!tip] Derivate di vettori
 >$$\overrightarrow{r}\space'(t)=\begin{pmatrix}r_{1}'(t)\\\vdots\\r_{n}'(t)\end{pmatrix}\qquad \forall t\in I$$
 
->[!note]
->Sia $I=[a,b]$ per $a<b$ e $\overrightarrow{r}:[a,b]\to\mathbb{R}^{n}$ sia una curva. Diciamo che $\overrightarrow{r}$ è regolare se $\overrightarrow{r}\space\bigg|_{(a,b)}$ è regolare.
+>[!tip] Curve regolari a tratti
+>Diciamo che una curva $\overrightarrow{r}:I\subseteq\mathbb{R}\to\mathbb{R}^{n}$ è regolare a tratti se:
+>- $\overrightarrow{r}\in c^{0}(I;\mathbb{R}^{n})$
+>- ad eccezione di un numero finito di $k\in\mathbb{N}$ punti $t_{1},\cdots,t_{k}\in I$ la curvatura è regolare.
 
 ### Versore tangente
 >[!note]
@@ -48,19 +52,9 @@ $\overrightarrow{r}$ è continua in $t$ se e solo se $r_{1},\cdots,r_{n}$ sono c
 >[!note]
 >Sia $\overrightarrow{r}: I\subseteq\mathbb{R}\to\mathbb{R}^{n}$ una curva regolare su un intervallo $I$ con sostegno $\gamma$. Si dica lunghezza di $\gamma$ (o lunghezza della curva) il numero: $$\text{Lunghezza}(\gamma):=\int_{I}||\overrightarrow{r}\space'(t)||\text{ d}t$$
 
-### Parametrizzazione come grafico
->[!note]
->Un sostegno $\gamma\subseteq\mathbb{R}^{2}$ si dice parametrizzabile come grafico di una funzione $f$ se esiste una funzione $f:I\subseteq\mathbb{R}\to\mathbb{R}$ tale che $\gamma$ è il sostegno della curva definita da: $$\overrightarrow{r}:I\subseteq\mathbb{R}\to\mathbb{R}^{2}$$
->con: $$\begin{cases}
-r_{1}(t)=t \\
-r_{2}(t)=f(t)
-\end{cases}\qquad \forall t\in I$$
-
->[!note]
->Diciamo che una curva $\overrightarrow{r}:I\subseteq\mathbb{R}\to\mathbb{R}^{n}$ è regolare a tratti se:
->- $\overrightarrow{r}\in c^{0}(I;\mathbb{R}^{n})$
->- ad eccezione di un numero finito di $k\in\mathbb{N}$ punti $t_{1},\cdots,t_{k}\in I$ la curvatura è regolare.
-
->[!note]
+>[!tip] Lunghezza di una curva regolare a tratti
 >Sia $I$ un intervallo in $\mathbb{R}$ con estremi $a,b\in \mathbb{R}\cup\set{\pm\infty}$ con $a<b$ e sia $\overrightarrow{r}:I\to\mathbb{R}^{n}$ una curvatura regolare a tratti con sostegno $\gamma$. Siano $t_{1}<\cdots<t_{k}\in I$ tali che $\overrightarrow{r}$ è regolare in $I\smallsetminus\set{t_{1},\cdots,t_{k}}$. Si dice lunghezza (del sostegno) della curva: $$\text{Lunghezza}(\gamma):=\int_{a}^{t_{1}}||\overrightarrow{r}\space'||\text{ d}t+\int_{t_{1}}^{t_{2}}||\overrightarrow{r}\space'||\text{ d}t+\cdots+\int_{t_{k}}^{b}||\overrightarrow{r}\space'||\text{ d}t$$
+
+
+
 

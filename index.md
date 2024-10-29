@@ -13,7 +13,7 @@ Il corso di Analisi Matematica 2 affronta vari concetti avanzati, tra cui le cur
 	1. [[Sottoinsiemi di uno spazio n-dimensionale]]
 	2. [[Funzioni a più variabili]]
 	3. [[Curve in uno spazio n-dimensionale]]
-
-
-
-parlami dei linguaggi di programmazione
+	4. [[Parametrizzazione del sostegno di una curva]]
+5. [[Serie di funzioni]]
+	1. [[Serie di potenze reali]]
+	

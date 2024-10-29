@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Spazio n-dimensionale/Curve in uno spazio n-dimensionale.md",
-      "timestamp": 1729167683441
-    },
-    {
-      "filepath": "Spazio n-dimensionale/Spazio n-dimensionale.md",
-      "timestamp": 1729167681945
-    },
-    {
       "filepath": "index.md",
-      "timestamp": 1729167666498
+      "timestamp": 1730197128247
     },
     {
-      "filepath": "Spazio n-dimensionale/Funzioni a più variabili.md",
-      "timestamp": 1729167226581
+      "filepath": "Introduzione al corso.md",
+      "timestamp": 1730197128098
     },
     {
-      "filepath": "temp/2024-09-16.md",
-      "timestamp": 1729164348739
+      "filepath": "Equazioni differenziali/Equazioni differenziali ordinarie.md",
+      "timestamp": 1730197127854
+    },
+    {
+      "filepath": "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari omogenee a coefficienti costanti.md",
+      "timestamp": 1730197126911
+    },
+    {
+      "filepath": "Equazioni differenziali/Modelli di dinamica delle popolazioni.md",
+      "timestamp": 1730197126580
     }
   ],
   "starredFileStore": [],

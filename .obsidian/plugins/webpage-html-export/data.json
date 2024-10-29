@@ -10,6 +10,9 @@
     "exportPath": "/output",
     "filesToExport": [
       "Equazioni differenziali",
+      "Serie di funzioni",
+      "Sistemi differenziali lineari",
+      "Spazio n-dimensionale",
       "index.md",
       "Introduzione al corso.md"
     ],
