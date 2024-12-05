@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "index.md",
-      "timestamp": 1733430118822
+      "timestamp": 1733430420422
+    },
+    {
+      "filepath": "Serie di funzioni/Serie di funzioni trigonometriche.md",
+      "timestamp": 1733430335119
     },
     {
       "filepath": "Introduzione al corso.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari omogenee a coefficienti costanti.md",
       "timestamp": 1733430117479
-    },
-    {
-      "filepath": "Equazioni differenziali/EDO del primo ordine/Modelli di dinamica delle popolazioni.md",
-      "timestamp": 1733430117180
     }
   ],
   "starredFileStore": [],
