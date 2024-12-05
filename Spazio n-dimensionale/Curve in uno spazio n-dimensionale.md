@@ -1,8 +1,8 @@
 >[!note]
 >Una curva in $\mathbb{R}^{n}$ è definita da $n$ funzioni $$r_{1},\cdots,r_{n}:I\subseteq\mathbb{R}\to\mathbb{R}^{n}$$
->Dove $I\subseteq\mathbb{R}$ è un intervallo che può essere chiuso, aperto, semiaperto o illimitato. La curva si può scrivere come funzione vettoriale nel seguente modo: $$\overrightarrow{r}=U\subseteq\mathbb{R}\to\mathbb{R}^{n}$$
+>Dove $I\subseteq\mathbb{R}$ è un intervallo che può essere chiuso, aperto, semiaperto o illimitato. La curva si può scrivere come funzione vettoriale nel seguente modo: $$\overrightarrow{r}=I\subseteq\mathbb{R}\to\mathbb{R}^{n}$$
 >$$\overrightarrow{r}(t)=\begin{pmatrix}r_{1}(t)\\\vdots\\ r_{n}(t)\end{pmatrix}=\sum\limits_{i=1}^{n}r_{i}(t)\overrightarrow{e}_{i}$$
->Inoltre, ci si riferisce a: $$\gamma:=\overrightarrow{r}(I)=\set{x_{1},\cdots,x_{n}\in\mathbb{R}^{n}:\quad\exists t\in I\quad r_{i}(t)=x_{i}\quad\forall i=1,\cdots,n}$$
+>Inoltre, ci si riferisce a: $$\gamma:=\set{(x_{1},\cdots,x_{n})\in\mathbb{R}^{n}:\quad\exists t\in I\quad r_{i}(t)=x_{i}\quad\forall i=1,\cdots,n}$$
 >Come al sostegno della curva.
 
 >[!tip]

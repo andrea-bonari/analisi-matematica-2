@@ -176,7 +176,7 @@
     "customHeadPath": "",
     "iconEmojiStyle": "Native",
     "authorName": "",
-    "exportRoot": "",
+    "exportRoot": "/",
     "includePluginCSS": [],
     "includeSvelteCSS": true
   },

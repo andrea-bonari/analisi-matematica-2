@@ -39,4 +39,4 @@ r_{2}(t)=f(t)
 >[!tip]
 >Abbiamo che se la funzione lunghezza d'arco esiste, allora:
 >- $s$ è derivabile e invertibile (e quindi può essere considerato come cambiamento di variabile)
->- possiamo riparametrizzare $\gamma$ ristretto alla lunghezza d'arco, che è anche detta parametro d'arco o ascissa curvilinea.
+>- possiamo riparametrizzare $\gamma$ ristretto alla lunghezza d'arco, che è anche detta parametro d'arco o ascissa curvilinea, cioè $\overrightarrow{v}(s)=\overrightarrow{r}(s^{-1}(s))$. Si può verificare che $||\overrightarrow{v}\space'(s)||=1$ e $\overrightarrow{T}(s)=\overrightarrow{v}\space'(s)$
