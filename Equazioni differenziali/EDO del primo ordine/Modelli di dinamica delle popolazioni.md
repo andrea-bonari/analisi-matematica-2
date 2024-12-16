@@ -1,12 +1,8 @@
 ### Modello di Malthus
 >[!note]
 >Si tratta di un modello di crescita delle popolazioni assumendo che la popolazione evolva isolata e i suoi fattori di evoluzione quindi siano esclusivamente la natalità e la mortalità.
-
-Indichiamo $N(t)$ il numero di membri della popolazione al tempo $t$, quindi:$$N:\mathbb{R}\to \mathbb{R}_{+}:=\set{r\in\mathbb{R}\quad r\geq 0}$$
-Il tasso di natalità come $\lambda>0$ e il tasso di mortalità come $\mu>0$.
-
-Il modello è quindi: $$N'(t)=(\lambda-\mu)N(t)$$
-
+>Indichiamo $N(t)$ il numero di membri della popolazione al tempo $t$, quindi:$$N:\mathbb{R}\to \mathbb{R}_{+}:=\set{r\in\mathbb{R}\quad r\geq 0}$$
+>Il tasso di natalità come $\lambda>0$ e il tasso di mortalità come $\mu>0$. Il modello è quindi: $$N'(t)=(\lambda-\mu)N(t)$$
 Definendo $\varepsilon=\lambda-\mu$ il tasso di potenziali biologica, allora l'EDO è equivalente a: $$N'(t)=\varepsilon N(t)$$
 Questa è un EDO a variabili separabili.
 
@@ -29,9 +25,7 @@ Questa è un EDO a variabili separabili.
 >2. $N(t_{0})\neq0$ e $\varepsilon>0$: la popolazione cresce esponenzialmente
 >3. $N(t_{0})\neq0$ e $\varepsilon<0$: la popolazione si estingue esponenzialmente
 
-### Modello di Verhulst
+### Equazione logistica
 >[!note]
->Il tasso di Verhulst è si proporzionale al numero di popolazione presente, ma anche all'ammontare di risorse disponibili. Tende e limitare la crescita. $$N'(t)= ⅃N(t)-g(N(t))$$
->Con $g(N)=\sigma N^{2}$, dove $⅃,\sigma>0$, cioè: $$N'(t)=⅃N(t)-\sigma N^{2}(t)$$
-
-
+>L'equazione logistica (o modello di Verhulst) considera che il tasso di nuovi nati è sia proporzionale al numero di popolazione presente, ma anche all'ammontare di risorse disponibili: $$N'(t)=\lambda N(t)- g( N(t))$$
+>con $g$ una funzione opportuna, per esempio $g(N)=\sigma N^{2}$, dove $\lambda,\sigma>0$, cioè: $$N'(t)=\lambda N(t)-\sigma N^{2}(t)$$

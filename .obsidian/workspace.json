@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14ed13c8b6d81bf0",
+        "id": "e768c583183da6af",
         "type": "tabs",
         "children": [
           {
-            "id": "538ffe1b487f288b",
+            "id": "124e971d40339bf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,19 +166,19 @@
     }
   },
   "floating": {
-    "id": "c5d08bce473bb3e1",
+    "id": "f35d13109f0f3276",
     "type": "floating",
     "children": [
       {
-        "id": "4a732b280fc68e48",
+        "id": "ebd986d50034eb82",
         "type": "window",
         "children": [
           {
-            "id": "fdee2807270e95fa",
+            "id": "b92f2c4a21ec8261",
             "type": "tabs",
             "children": [
               {
-                "id": "77d05faed45f2409",
+                "id": "9d7a8cc7345c6006",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -204,9 +204,8 @@
       }
     ]
   },
-  "active": "77d05faed45f2409",
+  "active": "9d7a8cc7345c6006",
   "lastOpenFiles": [
-    "Equazioni differenziali/EDO del primo ordine/Modelli di dinamica delle popolazioni.md",
     "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md",
     "Sistemi differenziali lineari/Sistemi differenziali lineari.md",
     "Equazioni differenziali/EDO del primo ordine/EDO del primo ordine.md",
@@ -217,40 +216,41 @@
     "Serie di funzioni/Serie di funzioni.md",
     "Spazio n-dimensionale/Parametrizzazione del sostegno di una curva.md",
     "Spazio n-dimensionale/Curve in uno spazio n-dimensionale.md",
-    "Spazio n-dimensionale/Integrale curvilinea.md",
     "Serie di funzioni/Serie di potenze reali.md",
     "Serie di funzioni/Serie di funzioni trigonometriche.md",
     "Sistemi differenziali lineari/Sistemi differenziali lineari omogenei.md",
     "Sistemi differenziali lineari/Sistemi differenziali lineari non omogenei.md",
-    "Funzioni a più variabili/Limiti e continuità.md",
+    "Funzioni a più variabili/Limiti e continuità di funzioni a più variabili.md",
     "Funzioni a più variabili/Calcolo differenziale/Derivabilità di funzioni a più variabili.md",
     "Funzioni a più variabili/Ottimizzazione/Ottimizzazione per funzioni a due variabili.md",
     "Funzioni a più variabili/Calcolo differenziale/Derivata seconda per funzioni a due variabili.md",
     "Funzioni a più variabili/Ottimizzazione/Ottimizzazione libera.md",
     "Funzioni a più variabili/Ottimizzazione/Ottimizzazione vincolata.md",
-    "index.md",
     "Funzioni a più variabili/Funzioni a valori vettoriali.md",
+    "Spazio n-dimensionale/Integrale curvilinea.md",
+    "Funzioni a più variabili/Calcolo integrale/Integrale multiplo.md",
+    "Funzioni a più variabili/Calcolo integrale/Integrale doppio.md",
+    "Equazioni differenziali/EDO del primo ordine/Modelli di dinamica delle popolazioni.md",
+    "Funzioni a più variabili/Calcolo integrale/Integrale triplo.md",
+    "data/Pasted image 20241216183056.png",
+    "data/Pasted image 20241216183104.png",
+    "data/Pasted image 20241216183045.png",
+    "data/Pasted image 20241216183035.png",
+    "data/Pasted image 20241216183015.png",
+    "data/Pasted image 20241216182939.png",
+    "data/Pasted image 20241216182847.png",
+    "data/Pasted image 20241216182835.png",
+    "data/Pasted image 20241216182118.png",
+    "data/Pasted image 20241216180743.png",
+    "Equazioni differenziali/Studio qualitativo",
     "Funzioni a più variabili/Calcolo integrale",
     "Funzioni a più variabili/Ottimizzazione",
     "Funzioni a più variabili/Calcolo differenziale",
-    "Funzioni a più variabili/Continuità.md",
-    "Calcolo differenziale per funzioni a più variabili.md",
     "Funzioni a più variabili",
     "Serie di funzioni",
     "Spazio n-dimensionale",
     "Sistemi differenziali lineari",
     "Equazioni differenziali/EDO del secondo ordine",
-    "Equazioni differenziali/EDO del primo ordine",
-    "Equazioni differenziali",
-    "data/Pasted image 20240902165354.png",
-    "data/Pasted image 20240902165330.png",
-    "data/Pasted image 20240902165224.png",
-    "data/Pasted image 20240902165202.png",
-    "data/Pasted image 20240902164742.png",
-    "data/Pasted image 20240902164403.png",
-    "data/Pasted image 20240902164322.png",
-    "data/Pasted image 20240902164157.png",
-    "data/Pasted image 20240902163846.png",
-    "data/Pasted image 20240902163313.png"
+    "Equazioni differenziali/EDO del primo ordine"
   ]
 }
