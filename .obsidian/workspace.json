@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Funzioni a più variabili/Calcolo differenziale/Derivabilità di funzioni a più variabili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Derivabilità di funzioni a più variabili"
+            }
+          },
+          {
+            "id": "1cbbeb8db0851f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funzioni a più variabili/Calcolo differenziale/Derivabilità di funzioni a più variabili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Derivabilità di funzioni a più variabili"
+            }
+          },
+          {
+            "id": "799555588e076d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funzioni a più variabili/Calcolo integrale/Integrale triplo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Integrale triplo"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -40,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "criterio della matrice hessiana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,73 +195,34 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "floating": {
-    "id": "f35d13109f0f3276",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ebd986d50034eb82",
-        "type": "window",
-        "children": [
-          {
-            "id": "b92f2c4a21ec8261",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9d7a8cc7345c6006",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari omogenee a coefficienti costanti.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "EDO del secondo ordine lineari omogenee a coefficienti costanti"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1920,
-        "height": 1026,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9d7a8cc7345c6006",
+  "active": "799555588e076d40",
   "lastOpenFiles": [
+    "Introduzione al corso.md",
+    "Funzioni a più variabili/Ottimizzazione/Ottimizzazione libera.md",
+    "Dimostrazioni.md",
+    "Funzioni a più variabili/Calcolo differenziale/Derivabilità di funzioni a più variabili.md",
+    "Funzioni a più variabili/Calcolo differenziale/Derivata seconda per funzioni a due variabili.md",
+    "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari.md",
+    "Spazio n-dimensionale/Parametrizzazione del sostegno di una curva.md",
+    "Spazio n-dimensionale/Sottoinsiemi di uno spazio n-dimensionale.md",
+    "Spazio n-dimensionale/Spazio n-dimensionale.md",
+    "Spazio n-dimensionale/Funzioni a più variabili.md",
+    "Spazio n-dimensionale/Integrale curvilinea.md",
+    "Spazio n-dimensionale/Curve in uno spazio n-dimensionale.md",
+    "Serie di funzioni/Serie di funzioni trigonometriche.md",
+    "Serie di funzioni/Serie di potenze reali.md",
+    "Serie di funzioni/Serie di funzioni.md",
+    "Equazioni differenziali/EDO del primo ordine/EDO del primo ordine.md",
+    "index.md",
+    "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari omogenee a coefficienti costanti.md",
     "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari non omogenee.md",
     "Sistemi differenziali lineari/Sistemi differenziali lineari.md",
-    "Equazioni differenziali/EDO del primo ordine/EDO del primo ordine.md",
-    "Equazioni differenziali/EDO del secondo ordine/EDO del secondo ordine lineari.md",
-    "Spazio n-dimensionale/Spazio n-dimensionale.md",
-    "Spazio n-dimensionale/Sottoinsiemi di uno spazio n-dimensionale.md",
-    "Spazio n-dimensionale/Funzioni a più variabili.md",
-    "Serie di funzioni/Serie di funzioni.md",
-    "Spazio n-dimensionale/Parametrizzazione del sostegno di una curva.md",
-    "Spazio n-dimensionale/Curve in uno spazio n-dimensionale.md",
-    "Serie di funzioni/Serie di potenze reali.md",
-    "Serie di funzioni/Serie di funzioni trigonometriche.md",
     "Sistemi differenziali lineari/Sistemi differenziali lineari omogenei.md",
     "Sistemi differenziali lineari/Sistemi differenziali lineari non omogenei.md",
     "Funzioni a più variabili/Limiti e continuità di funzioni a più variabili.md",
-    "Funzioni a più variabili/Calcolo differenziale/Derivabilità di funzioni a più variabili.md",
     "Funzioni a più variabili/Ottimizzazione/Ottimizzazione per funzioni a due variabili.md",
-    "Funzioni a più variabili/Calcolo differenziale/Derivata seconda per funzioni a due variabili.md",
-    "Funzioni a più variabili/Ottimizzazione/Ottimizzazione libera.md",
     "Funzioni a più variabili/Ottimizzazione/Ottimizzazione vincolata.md",
     "Funzioni a più variabili/Funzioni a valori vettoriali.md",
-    "Spazio n-dimensionale/Integrale curvilinea.md",
-    "Funzioni a più variabili/Calcolo integrale/Integrale multiplo.md",
-    "Funzioni a più variabili/Calcolo integrale/Integrale doppio.md",
-    "Equazioni differenziali/EDO del primo ordine/Modelli di dinamica delle popolazioni.md",
-    "Funzioni a più variabili/Calcolo integrale/Integrale triplo.md",
     "data/Pasted image 20241216183056.png",
     "data/Pasted image 20241216183104.png",
     "data/Pasted image 20241216183045.png",

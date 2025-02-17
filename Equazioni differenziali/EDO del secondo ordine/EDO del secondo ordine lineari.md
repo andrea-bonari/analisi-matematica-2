@@ -58,6 +58,3 @@ Dove $y_{P}$ è soluzione di $Ly=f$, e $y_{0}$ è soluzione di $Ly=0$.
 >\end{cases}$$
 >E quindi per il teorema di esistenza e unicità globale del problema di Cauchy abbiamo che $$\overline{y}_{\sigma}(t)=\overline{Z}(t)\qquad\forall t\in I$$
 
-
-
-

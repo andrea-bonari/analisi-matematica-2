@@ -24,7 +24,7 @@
 >[!note]
 >La funzione relativa alle coordinate cilindriche è: $$\begin{align*}
 >&\overrightarrow{T}_{c}:\mathbb{R}^{+}\times[0,2\pi]\times\mathbb{R}\to\mathbb{R}^{>3}\\
->&\overrightarrow{T_{c}}(\rho,\theta, z)= >\begin{pmatrix}\rho\cos\theta\\\rho\sin\theta\\z\end{pmatrix}=\begin{pmatrix}x\\y\\>z\end{pmatrix}
+>&\overrightarrow{T_{c}}(\rho,\theta, z)= \begin{pmatrix}\rho\cos\theta\\\rho\sin\theta\\z\end{pmatrix}=\begin{pmatrix}x\\y\\z\end{pmatrix}
 >\end{align*}$$
 >E quindi otteniamo: $$\det J_{\overrightarrow{T}_{c}}(\rho,\theta,z)=\rho\neq0$$
 >E la formula di integrazione diviene: $$\iiint_{\Omega}f(x,y,z)\text{ d}x \text{ d}y \text{ d}z=\iiint_{\overrightarrow{T}^{-1}_{c}(\Omega)}f(\rho\cos\theta,\rho\sin\theta,z)\rho \text{ d}\rho \text{ d}\theta \text{ d}z$$

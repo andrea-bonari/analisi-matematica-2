@@ -3,8 +3,8 @@
   "attachmentFolderPath": "data",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A4",
+    "includeName": false,
+    "pageSize": "Tabloid",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
