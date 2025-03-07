@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funzioni a più variabili/Calcolo integrale/Integrale triplo.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integrale triplo"
+              "title": "index"
             }
           }
         ],
@@ -198,6 +198,7 @@
   "active": "799555588e076d40",
   "lastOpenFiles": [
     "Introduzione al corso.md",
+    "Funzioni a più variabili/Calcolo integrale/Integrale triplo.md",
     "Funzioni a più variabili/Ottimizzazione/Ottimizzazione libera.md",
     "Dimostrazioni.md",
     "Funzioni a più variabili/Calcolo differenziale/Derivabilità di funzioni a più variabili.md",
@@ -222,7 +223,6 @@
     "Funzioni a più variabili/Limiti e continuità di funzioni a più variabili.md",
     "Funzioni a più variabili/Ottimizzazione/Ottimizzazione per funzioni a due variabili.md",
     "Funzioni a più variabili/Ottimizzazione/Ottimizzazione vincolata.md",
-    "Funzioni a più variabili/Funzioni a valori vettoriali.md",
     "data/Pasted image 20241216183056.png",
     "data/Pasted image 20241216183104.png",
     "data/Pasted image 20241216183045.png",
