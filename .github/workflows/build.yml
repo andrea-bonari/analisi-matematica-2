@@ -21,7 +21,7 @@ jobs:
       - name: Build Quartz
         uses: andrea-bonari/quartz@v4
         with:
-          site_title: "Analisi Matematica 2"
+          site_title: "Analisi matematica 2"
           site_slug: "andrea-bonari.github.io/analisi-matematica-2"
           site_url: "https://github.com/andrea-bonari/analisi-matematica-2"
  
